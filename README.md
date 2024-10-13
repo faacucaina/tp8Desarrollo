@@ -1,2 +1,2 @@
-# tp8Desarrollo
-Desarrollo de Software TP8
+# TP8-DesarrollodeSoftware
+Adjunto Trabajo Practico N°8 - AJavaScript
